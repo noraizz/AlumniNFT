@@ -40,7 +40,7 @@ contract SoulBoundNFT is ERC721, ERC721URIStorage, Ownable {
         }
     }
 
-    //burn Function is in working condition it depends on the use case weather we are giving permission for burning the NFT to the alumnus
+    // burn Function is in working condition it depends on the use case weather we are giving permission for burning the NFT to the alumnus.
 
     // function burn(uint256 tokenId) external {
     //     require(

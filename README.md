@@ -1,4 +1,4 @@
-Install Hardhat and it's dependencies with yarn and compile the contracts with "npx hardhat compile"
+# Install Hardhat and it's dependencies with yarn and compile the contracts with "npx hardhat compile"
 
 # NFT Drop for Alumni of Nethermind
 
